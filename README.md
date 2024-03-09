@@ -1,8 +1,5 @@
-# {display_name}
-To use this template follow those steps:
-1. Make a copy to your accout;
-2. Delete Update FUNDING.yml
-3. Follow [CustomPackages](https://docs.unity3d.com/Manual/CustomPackages.html) instructions. 
+# Better Components
+[![openupm](https://img.shields.io/npm/v/com.tdw.better.components?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.tdw.better.components/)
 
 ## Install
 [How to install](https://github.com/uurha/BetterPluginCollection/wiki/How-to-install)
