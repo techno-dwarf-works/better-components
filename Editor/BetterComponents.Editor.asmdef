@@ -1,0 +1,20 @@
+{
+    "name": "BetterComponents.Editor",
+    "rootNamespace": "Better.Components.EditorAddons",
+    "references": [
+        "GUID:01df13aca8d01e24a911bcc3e8277031",
+        "GUID:6adbd2a12d24f5d429f7ea1b1086e835",
+        "GUID:6b36d71e9d7bd0c499dbdcb93ddf5665"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
